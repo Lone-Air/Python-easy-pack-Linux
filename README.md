@@ -1,6 +1,6 @@
 # python-easy-pack For Linux/Unix, Changed by laman28
 # Original version of windows: https://github.com/shr-NaHCO3/python-easy-pack
-make pack up python files easier. 目前只提供了中文环境
+make pack up python files easier.
 
 # 如何使用?
 1. Install: Download the .zip archive then decompress or use 'git clone https://github.com/Lone-Air/Python-easy-pack-Linux.git' in your terminal
