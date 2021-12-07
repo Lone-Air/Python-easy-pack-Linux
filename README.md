@@ -1,5 +1,8 @@
 # python-easy-pack For Linux/Unix, Changed by laman28
-# Original version of windows: https://github.com/shr-NaHCO3/python-easy-pack
+
+Original version of windows: 
+https://github.com/shr-NaHCO3/python-easy-pack
+
 make pack up python files easier.
 
 # 如何使用?
